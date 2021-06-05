@@ -19,7 +19,7 @@ Auth::routes();
 
 //Route::get('/home', 'HomeController@index')->name('home');
 
-Route::post('initialize',function ()
+Route::get('initialize',function ()
 {
         $user = new \App\User();
         $user->name = 'admin';
