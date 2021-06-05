@@ -8,7 +8,7 @@
     <meta name="description" content="The HTML5 Herald">
     <meta name="author" content="SitePoint">
 
-    <link rel="stylesheet" href="{{asset('css/css.css')}}">
+    <link rel="stylesheet" href="/css/css.css">
 
 
 </head>
