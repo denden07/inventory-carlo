@@ -50,7 +50,7 @@
                 <div class="overlay-panel overlay-right">
                     <img class="login-image" src="{{asset('pics/home.png')}}" alt="">
                     <p class="login-image-text">Inventory Management System</p>
-                    <span>Powered by: Marc Aldrin Dela Cruz</span>
+                    <span>Powered by: Banaba-Garvida-Guevarra-Ruiz</span>
                 </div>
             </div>
         </div>
